@@ -1,0 +1,9 @@
+READ ME 
+
+please note the buttons in these scenes are slightly visiable to display that they are there and that they can be clicked. 
+nothing currently happens when some of the buttons are pressed, when the game is complete and a player presses on any of the 
+ingredients they will appear in the players hand and be poured into the bowl. (the buttons will work when the game is fully 
+functional.) this is the same for the sliders, currently we can manipulate the sliders manually- but they will be fully functional 
+when the game is complete. 
+
+ 
